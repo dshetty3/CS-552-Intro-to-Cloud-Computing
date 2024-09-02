@@ -11,7 +11,7 @@ This course provides an introduction to the fundamental concepts of cloud comput
 
 ### Project 1: Lets Deploy our first application on Cloud
 
-- **Objective:** Introduce students to basic cryptographic techniques.
+- **Objective:** Build a simple two-tier live chat and deply it in Google Cloud.
 - **Tasks:**
   - Building and Deploying in the Native
       - MongoDB Installation
@@ -22,7 +22,7 @@ This course provides an introduction to the fundamental concepts of cloud comput
 
 ### Project 2: Building Kubernets
 
-- **Objective:** Enable 3 node Kubernets cluster and deploy Caht application in this cluster
+- **Objective:** Enable 3 node Kubernets cluster and deploy Chat application in this cluster
 - **Tasks:**
   - Build Kubernets Cluster
       - Set up hostname and host files
